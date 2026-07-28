@@ -23,6 +23,20 @@ Data movement uses the prefix 0x0*
 Arithmetic uses the prefix 0x1*
 |Opcode|Name|Register|Input|Example|
 |---|---|---|---|---|
-|0x1|ADD|register|register|ADD a, b|
-|0x1|ADD|register|immediate|ADD a, 10|
+|0x10|ADD|register|register|ADD a, b|
+|0x11|ADD|register|immediate|ADD a, 10|
+|0x12|
+|0x13|
+|0x14|
+|0x15|
+|0x16|
+|0x17|
+|0x18|
+|0x19|
+|0x1A|
+|0x1B|
+|0x1C|
+|0x1D|
+|0x1E|
+|0x1F|
 

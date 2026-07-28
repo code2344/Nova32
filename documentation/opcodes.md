@@ -1,4 +1,14 @@
 # Opcodes
+
+0x01–0x1F  core operations
+0x20–0x3F  arithmetic
+0x40–0x5F  branches
+0x60–0x7F  memory
+0x80–0x9F  stack and functions
+0xA0–0xBF  system and device operations
+0xC0–0xFE  reserved
+0xFF       HALT
+
 ## Data Movement
 Data movement uses the prefix 0x0*
 |Opcode|Name|Register|Input|Example|
